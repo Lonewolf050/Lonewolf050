@@ -4,7 +4,7 @@
 <h3 align="center">I dont know why i choose this.</h3>
 <!--🖼️RICK-->
 <p align="center">
-<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
+<img src="https://c.tenor.com/STXhuZ7MFf0AAAAC/tenor.gif" height="240" width="370">
   
    About Me
    
