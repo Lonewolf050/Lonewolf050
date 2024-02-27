@@ -5,7 +5,8 @@
 <!--🖼️RICK-->
 <p align="center">
 <img src="https://c.tenor.com/STXhuZ7MFf0AAAAC/tenor.gif" height="240" width="370">
-  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lonewolf050&label=Profile%20views&color=0e75b6&style=flat" alt="Lonewolf050" /> </p>
+
    About Me
    
 - 🌱 I’m currently learning **Data Structure**
