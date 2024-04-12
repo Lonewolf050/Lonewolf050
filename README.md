@@ -47,7 +47,7 @@
 <a> 
     <a href="https://github.com/Lonewolf050"><img alt="Aman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lonewolf050&show_icons=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/Lonewolf050/github-readme-stats"><img alt="Aman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lonewolf050&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-   <a href="https://github.com/Lonewolf050/github-readme-activity-graph"><img alt="Aman's Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Lonewolf050&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="50px" width="100%"/></a>
+   <a href="https://github.com/Lonewolf050/github-readme-activity-graph"><img alt="Aman's Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Lonewolf050&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="50px" width="1200px"/></a>
   <br/>
 </a>
 
