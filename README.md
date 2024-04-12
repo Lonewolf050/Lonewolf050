@@ -36,11 +36,11 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lonewolf050)](https://git.io/streak-stats)
+
 
 <p align="center">
   <a href="https://github.com/Lonewolf050">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lonewolf050&theme=radical" alt="Aman's GitHub Contribution"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lonewolf050&theme=radical" alt="Aman's GitHub Contribution"/>
   </a>
 </p>
 
