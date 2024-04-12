@@ -36,7 +36,7 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lonewolf0501&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Lonewolf050)](https://git.io/streak-stats)
 
 <p align="center">
   <a href="https://github.com/Lonewolf050">
