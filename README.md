@@ -31,8 +31,8 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Lonewolf050">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lonewolf050&theme=radical&border=7F3FBF&background=0D1117" alt="Aman's GitHub streak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Lonewolf050&theme=radical&border=7F3FBF&background=0D1117" alt="Aman's GitHub streak"/>
   </a>
 </p>
 
