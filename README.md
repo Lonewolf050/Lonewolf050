@@ -54,5 +54,5 @@
 
 ![Aman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lonewolf050&custom_title=Aman's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-https://github-stats-alpha.vercel.app/api?username=Lonewolf050&cc=000&tc=fff&ic=fff&bc=000
+![Aman's Graph] (https://github-stats-alpha.vercel.app/api?username=Lonewolf050&cc=000&tc=fff&ic=fff&bc=000)
 
