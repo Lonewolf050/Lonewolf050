@@ -53,3 +53,5 @@
 
 ![Aman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lonewolf050&custom_title=Aman's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lonewolf050&theme=dracula)](https://github.com/Lonewolf050/github-readme-activity-graph)
+
